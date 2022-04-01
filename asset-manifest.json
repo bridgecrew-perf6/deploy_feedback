@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/feebackform1/static/css/main.b516db29.chunk.css",
+    "main.js": "/feebackform1/static/js/main.8baa2f32.chunk.js",
+    "main.js.map": "/feebackform1/static/js/main.8baa2f32.chunk.js.map",
+    "runtime-main.js": "/feebackform1/static/js/runtime-main.ee774760.js",
+    "runtime-main.js.map": "/feebackform1/static/js/runtime-main.ee774760.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/feebackform1/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.0e61cc5d.chunk.js": "/feebackform1/static/js/2.0e61cc5d.chunk.js",
+    "static/js/2.0e61cc5d.chunk.js.map": "/feebackform1/static/js/2.0e61cc5d.chunk.js.map",
+    "static/js/3.80d1183c.chunk.js": "/feebackform1/static/js/3.80d1183c.chunk.js",
+    "static/js/3.80d1183c.chunk.js.map": "/feebackform1/static/js/3.80d1183c.chunk.js.map",
+    "index.html": "/feebackform1/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/feebackform1/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.b516db29.chunk.css.map": "/feebackform1/static/css/main.b516db29.chunk.css.map",
+    "static/js/2.0e61cc5d.chunk.js.LICENSE.txt": "/feebackform1/static/js/2.0e61cc5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee774760.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.0e61cc5d.chunk.js",
+    "static/css/main.b516db29.chunk.css",
+    "static/js/main.8baa2f32.chunk.js"
+  ]
+}
